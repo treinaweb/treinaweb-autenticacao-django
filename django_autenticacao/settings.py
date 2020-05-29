@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'django_autenticacao.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'django_autenticacao',
+        'NAME': 'django_autenticacao_final',
         'USER': 'root',
         'PASSWORD': 'rootmysql',
         'HOST': 'localhost',
